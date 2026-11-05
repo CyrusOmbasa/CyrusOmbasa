@@ -1,16 +1,22 @@
 ## Hi there 👋
+# Hi, I'm Cyrus 👋
 
-<!--
-**CyrusOmbasa/CyrusOmbasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Telecommunications & Information Engineering student* passionate about connecting hardware and software.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- Learning *C and C++* through hands-on projects
+- Building *Arduino* circuits and sketches
+- Exploring the *Internet of Things (IoT)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Tech
+C, C++, Arduino, VS Code, GitHub
+
+## 🌱 Goals
+- Build real IoT projects, from sensors to connected devices
+- Get stronger in embedded systems and networking
+
+"Learning one commit at a time." 🚀
+
+
+
+
